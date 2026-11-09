@@ -1,0 +1,10 @@
+{
+  "id": "run-code-blocks",
+  "name": "Run Code Blocks",
+  "version": "0.1.0",
+  "minAppVersion": "0.16.0",
+  "description": "Adds a Run button to code blocks and shows the output right below, for JavaScript, Python, shell and more.",
+  "author": "Siulved54",
+  "authorUrl": "https://github.com/perezamadorluisenrique-gif",
+  "isDesktopOnly": true
+}
